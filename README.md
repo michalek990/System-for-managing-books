@@ -34,7 +34,7 @@ Celem pracy jest opracowanie i implementacja projektu aplikacji internetowej, na
   
   Gdzie ← oznacza kierunek dziedziczenia: nadklasa ← podklasa.
 </div>
-
+<br />
  
  ## 1.3. Wymagania funkcjonalne
 
