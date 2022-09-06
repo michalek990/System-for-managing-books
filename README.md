@@ -5,7 +5,7 @@ SPIS TREŚCI
 
 
 
- ## SPIS TREŚCI
+ ** SPIS TREŚCI **
 1. PROJEKT APLIKACJI – OPIS I WSTĘPNE ZAŁOŻENIA PROJEKTOWE
 1.1. Wstęp
 1.2. Aktorzy
@@ -14,8 +14,8 @@ SPIS TREŚCI
 1.3. Wymagania funkcjonalne
 1.4. Wymagania niefunkcjonalne
 2. WYKORZYSTANE TECHNOLOGIE
-2.1. Java + Spring
-2.1.1. Spring boot
+ a. Java + Spring
+   *. Spring boot
 2.1.2. Spring Data JPA
 2.1.3. Spring Security
 2.1.4. Spring OpenAPI + Swagger UI
