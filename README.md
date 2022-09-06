@@ -16,7 +16,7 @@
 ## 1.1. Wstęp
 
 Celem pracy jest opracowanie i implementacja projektu aplikacji internetowej, na wzór takich serwisów jak lubimyczytac.pl lub goodreads.com, której zadaniem jest umożliwienie użytkownikowi prowadzenia katalogu książek, które przeczytał. Poszczególni użytkownicy będą mogli ocenić daną książkę w skali 1-5 oraz wystawić jej opcjonalną recenzję. Ponadto jeżeli użytkownik nie znajdzie interesującej go książki w bazie danych aplikacji, będzie mógł ją dodać samodzielnie. Aby mieć dostęp do wyżej wymienionych funkcjonalności użytkownik musi najpierw założyć konto a następnie się na nie zalogować. W systemie zalogowani użytkownicy będą podzieleni na dwie kategorię: user i admin. Admin poza wszystkimi prawami przysługującymi zwykłemu użytkownikowi będzie miał dostęp do funkcjonalności która jest zarezerwowana tylko dla niego tj. możliwość usuwania książek oraz edycji i usuwania ocen i komentarzy innych użytkowników. W przypadku użytkowników nieposiadających konta w serwisie ich możliwości będą ograniczały się jedynie do przeglądania książek oraz profili innych użytkowników.
-
+<br />
 
  # 1.2. Aktorzy
 
@@ -50,7 +50,7 @@ Celem pracy jest opracowanie i implementacja projektu aplikacji internetowej, na
 6.	Usunięcie i modyfikacja książki - funkcjonalność umożliwiająca Administratorowi usunięcie lub modyfikację książki która znajduje się w systemie.
 7.	Dodanie oceny i komentarza do systemu - funkcjonalność umożliwiająca Użytkownikowi i wszystkim aktorom od niego dziedziczącym dodanie oceny i opcjonalnego komentarza na temat wybranej książki.
 8.	Usuwanie i modyfikacja komentarzy i ocen książki - funkcjonalność umożliwiająca Użytkownikowi usunięcie i modyfikację oceny i komentarza którego jest autorem. Administrator posiada tą samą funkcjonalność jednak umożliwia mu ona również zarządzanie komentarzami i ocenami dodanymi przez innych użytkowników.
-
+<br />
 ## 1.4. Wymagania niefunkcjonalne
 
 1.	Jako język programowania po stronie serwera powinien być wykorzystany język Java w wersji co najmniej 17 wraz z szkieletem programistycznym Spring Boot 2.6.7.
@@ -71,3 +71,4 @@ Celem pracy jest opracowanie i implementacja projektu aplikacji internetowej, na
 14.	Strona internetowa powinna być responsywna.
 15.	System powinien działać na komputerach z systemem Windows, Linux oraz na telefonach i tabletach z systemem Android.
 16.	System obsługiwany na komputerach powinien działać na przeglądarkach Chrome, Firefox oraz Opera.
+<br />
