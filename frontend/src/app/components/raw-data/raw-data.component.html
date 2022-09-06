@@ -1,0 +1,67 @@
+<div class="panel-header panel-header-sm">
+</div>
+<div class="main-content">
+  <div class="row">
+    <div class="col-md-12">
+      <div class="card">
+        <div class="card-header">
+          <h4 class="card-title"> Data from 2009 to 2021</h4>
+        </div>
+        <div class="card-body">
+          <div class="table-responsive">
+            <button class=" btn btn-sm btn-info" type="button" [disabled]="isRemoved || statistics.length==0" (click)="downloadJSON()">Download data as JSON file
+            </button>
+            <button class=" btn btn-sm  btn-info" type="button" [disabled]="isRemoved || statistics.length==0" (click)="downloadXML()">Download data as XML file
+            </button>
+          <button class=" btn btn-sm  btn-info" type="button" [disabled]="!isRemoved && statistics.length!=0" (click)="bootData()">Load Data</button>
+            <button class=" btn btn-sm  btn-info" type="button" [disabled]="isRemoved || statistics.length==0" (click)="testIsolation()">Remove data</button>
+            <table class="table">
+              <thead class=" text-primary">
+              <th>
+                Region
+              </th>
+              <th>
+                Year
+              </th>
+              <th>
+                Animal
+              </th>
+              <th>
+                Hunted Animals
+              </th>
+              <th>
+                Weight(tons)
+              </th>
+              <th class="text-right">
+                Price(k zl)
+              </th>
+              </thead>
+              <tbody>
+              <tr *ngFor="let stat of statistics">
+                <td>
+                  {{stat.region?.name}}
+                </td>
+                <td>
+                  {{stat.year}}
+                </td>
+                <td>
+                  {{stat.type}}
+                </td>
+                <td>
+                  {{stat.region.huntedAnimals}}
+                </td>
+                <td>
+                  {{stat.weight}}
+                </td>
+                <td class="text-right">
+                  {{stat.price}}
+                </td>
+              </tr>
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
