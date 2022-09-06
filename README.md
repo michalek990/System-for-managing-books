@@ -30,11 +30,13 @@ Celem pracy jest opracowanie i implementacja projektu aplikacji internetowej, na
  ## 1.2.2. Hierarchia aktorów
 
 <center>
+ 
 Gość ←Użytkownik←Administrator
 
 Gdzie ← oznacza kierunek dziedziczenia: nadklasa ← podklasa.
 
- </center>
+</center>
+ 
  ## 1.3. Wymagania funkcjonalne
 
 1.	Rejestracja i logowanie - funkcjonalność umożliwiająca Gościowi założenie konta a następnie zalogowanie się na nie w celu uzyskania dostępu do funkcjonalności przeznaczonych tylko dla zarejestrowanych użytkowników.
