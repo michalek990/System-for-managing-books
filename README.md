@@ -26,6 +26,7 @@ Celem pracy jest opracowanie i implementacja projektu aplikacji internetowej, na
 
 2.	Użytkownik - aktor posiadający wszystkie uprawnienia aktora Gość oraz uprawnienia pozwalające mu na zarządzanie swoim profilem. Może mieć wpływ na stan wewnętrzny systemu poprzez np. dodanie nowych treści do serwisu.
 3.	Administrator - aktor posiadający najwyższe uprawnienia w systemie, pozwalające mu na zarządzanie tym systemem. Posiada również wszystkie uprawnienia przysługujące innym aktorom.
+<br />
 
  ## 1.2.2. Hierarchia aktorów
 
