@@ -32,3 +32,38 @@ Celem pracy jest opracowanie i implementacja projektu aplikacji internetowej, na
 Gość ←Użytkownik←Administrator
 
 Gdzie ← oznacza kierunek dziedziczenia: nadklasa ← podklasa.
+
+ ## 1.3. Wymagania funkcjonalne
+
+1.	Rejestracja i logowanie - funkcjonalność umożliwiająca Gościowi założenie konta a następnie zalogowanie się na nie w celu uzyskania dostępu do funkcjonalności przeznaczonych tylko dla zarejestrowanych użytkowników.
+
+2.	Przeglądanie katalogu książek - funkcjonalność umożliwiająca Gościowi i wszystkim aktorom od niego dziedziczącym na przeglądanie dostępnego katalogu książek w systemie.
+
+3.	Przeglądanie ocen użytkowników - funkcjonalność umożliwiająca Gościowi i wszystkim aktorom od niego dziedziczącym przeglądanie ocen i komentarzy wystawionych przez Użytkownika i Administratora.
+
+4.	Przeglądanie danych użytkownika - funkcjonalność umożliwiająca Gościowi i wszystkim aktorom od niego dziedziczącym przeglądanie danych na temat danego Użytkownika i Administratora.
+5.	Dodawanie książki do systemu - funkcjonalność umożliwiająca Użytkownikowi i wszystkim aktorom od niego dziedziczącym dodanie do systemu nowej książki
+6.	Usunięcie i modyfikacja książki - funkcjonalność umożliwiająca Administratorowi usunięcie lub modyfikację książki która znajduje się w systemie.
+7.	Dodanie oceny i komentarza do systemu - funkcjonalność umożliwiająca Użytkownikowi i wszystkim aktorom od niego dziedziczącym dodanie oceny i opcjonalnego komentarza na temat wybranej książki.
+8.	Usuwanie i modyfikacja komentarzy i ocen książki - funkcjonalność umożliwiająca Użytkownikowi usunięcie i modyfikację oceny i komentarza którego jest autorem. Administrator posiada tą samą funkcjonalność jednak umożliwia mu ona również zarządzanie komentarzami i ocenami dodanymi przez innych użytkowników.
+
+## 1.4. Wymagania niefunkcjonalne
+
+1.	Jako język programowania po stronie serwera powinien być wykorzystany język Java w wersji co najmniej 17 wraz z szkieletem programistycznym Spring Boot 2.6.7.
+2.	System po stronie serwera powinien udostępniać REST API.
+3.	Jako serwer webowy system powinien wykorzystywać serwer Tomcat 9.0.12.
+4.	Jako narzędzie budowania i zarządzania zależnościami dla języka Java powinien zostać wykorzystany Apache Maven 3.8.
+5.	System powinien wykorzystywać MySQL jako system zarządzania bazą danych.
+6.	Hasła użytkowników powinny być przechowywane w bazie danych w formie skrótu.
+7.	Do obliczania skrótów haseł powinna być wykorzystana funkcja bycrypt.
+8.	Do autentykacji i autoryzacji powinny być wykorzystane tokeny JWT weryfikowane po stronie serwera.
+9.	Po stronie klienta system powinien wykorzystywać język znaczników HTML5, język arkuszy stylów CSS3 oraz język programowania JavaScript w wersji co najmniej ES6.
+10.	Strona internetowa powinna zostać zbudowana w technice SPA (Single-page application), przy wykorzystaniu szkieletu programistycznego Vue.js 3.
+
+11.	Jako menedżer pakietów języka JavaScript powinien być wykorzystany npm.
+12.	Do konteneryzacji aplikacji powinno zostać wykorzystane narzędzie Docker 20.10.7 oraz docker-compose 1.29.2.
+
+13.	Strona internetowa powinna posiadać jednolitą oprawę graficzna.
+14.	Strona internetowa powinna być responsywna.
+15.	System powinien działać na komputerach z systemem Windows, Linux oraz na telefonach i tabletach z systemem Android.
+16.	System obsługiwany na komputerach powinien działać na przeglądarkach Chrome, Firefox oraz Opera.
