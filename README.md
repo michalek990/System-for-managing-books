@@ -51,6 +51,7 @@ Celem pracy jest opracowanie i implementacja projektu aplikacji internetowej, na
 7.	Dodanie oceny i komentarza do systemu - funkcjonalność umożliwiająca Użytkownikowi i wszystkim aktorom od niego dziedziczącym dodanie oceny i opcjonalnego komentarza na temat wybranej książki.
 8.	Usuwanie i modyfikacja komentarzy i ocen książki - funkcjonalność umożliwiająca Użytkownikowi usunięcie i modyfikację oceny i komentarza którego jest autorem. Administrator posiada tą samą funkcjonalność jednak umożliwia mu ona również zarządzanie komentarzami i ocenami dodanymi przez innych użytkowników.
 <br />
+
 ## 1.4. Wymagania niefunkcjonalne
 
 1.	Jako język programowania po stronie serwera powinien być wykorzystany język Java w wersji co najmniej 17 wraz z szkieletem programistycznym Spring Boot 2.6.7.
