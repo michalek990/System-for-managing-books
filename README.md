@@ -29,13 +29,12 @@ Celem pracy jest opracowanie i implementacja projektu aplikacji internetowej, na
 
  ## 1.2.2. Hierarchia aktorów
 
-<center>
- 
-Gość ←Użytkownik←Administrator
+<div align="center">
+  Gość ←Użytkownik←Administrator
+  
+  Gdzie ← oznacza kierunek dziedziczenia: nadklasa ← podklasa.
+</div>
 
-Gdzie ← oznacza kierunek dziedziczenia: nadklasa ← podklasa.
-
-</center>
  
  ## 1.3. Wymagania funkcjonalne
 
