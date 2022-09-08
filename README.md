@@ -95,4 +95,19 @@ wykorzystane do komunikacji pomiędzy backendem i frontendem aplikacji.
 
 <br />
 
+## 2.1.2. Spring Data JPA
+Spring Data JPA jest narzędziem które ułatwia korzystanie i interakcję z bazą danych
+w projektach pisanych przy użyciu języka Java. Pozwala on na uniknięcie przez programistę
+pisania warstwy DAO (Data Access Object), więki dostarczeniu kilku rodzajów interfejsów
+repozytoriów. Na podstawie sygnatur metod zdefiniowanych przez programistę w tych
+interfejsach zostanie wygenerowanych kod który odpowiada za interakcję z bazą danych.
+<br />
+
+## 2.1.3. Spring Security
+Spring Security to wysoce konfigurowalne narzędzie do uwierzytelniania i kontroli
+dostępu. W prezentowanej pracy Spring Security został użyty w celu implementacji
+funkcjonalności logowania, rejestracji oraz autentykacji i autoryzacji na podstawie tokenów
+JWT. Spring Security dostarcza również kilka popularny
+
+<br />
 
