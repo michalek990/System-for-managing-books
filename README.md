@@ -122,3 +122,15 @@ Persistance API (JPA) - oficjalny standard dla mapowania relacyjno obiektowego d
 Java. Mapowanie relacyjno obiektowe to proces konwersji obiektów na tabele w bazie
 danych, bez potrzeby stosowania języka SQL. Hibernate jest implementacją JPA która jest
 domyślnie wykorzystywana przez Spring.
+<br />
+
+# 2.3. MySQL
+MySQL to stworzony przez firmę Oracle otwartoźródłowy system zarządzania
+relacyjną bazą danych który wykorzystuje język SQL. Jak we wszystkich relacyjnych bazach
+danych opartych na języku SQL, dane przechowywane są w tabelach składających się z
+wierszy i kolumn. MySQL umożliwia tworzenie, zarządzanie i odpytywanie bazy danych oraz
+zapewnienia zabezpieczenia przed nieautoryzowanym dostępem korzystając z mechanizmów
+uwierzytelniających. W prezentowanym projekcie MySQL jest wykorzystywany do
+przechowywania i agregowania danych o poszczególnych bytach obecnych w systemie.
+<br />
+
