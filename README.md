@@ -116,3 +116,9 @@ ze Swagger UI w celu wygenerowania interfejsu graficznego pozwalającego na bezp
 interakcję z REST API.
 <br />
 
+# 2.2. Hibernate
+Hibernate jest frameworkiem stanowiącym najpopularniejszą implementację Java
+Persistance API (JPA) - oficjalny standard dla mapowania relacyjno obiektowego dla języka
+Java. Mapowanie relacyjno obiektowe to proces konwersji obiektów na tabele w bazie
+danych, bez potrzeby stosowania języka SQL. Hibernate jest implementacją JPA która jest
+domyślnie wykorzystywana przez Spring.
