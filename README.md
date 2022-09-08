@@ -73,3 +73,26 @@ Celem pracy jest opracowanie i implementacja projektu aplikacji internetowej, na
 15.	System powinien działać na komputerach z systemem Windows, Linux oraz na telefonach i tabletach z systemem Android.
 16.	System obsługiwany na komputerach powinien działać na przeglądarkach Chrome, Firefox oraz Opera.
 <br />
+
+# 2. WYKORZYSTANE TECHNOLOGIE
+## 2.1. Java + Spring
+Spring Framework jest szkieletem programistycznym służącym do tworzenia aplikacji
+w języku Java. Spring powstał w 2003 roku będąc bezpośrednią odpowiedzią na Java EE
+która charakteryzowała się wysokim stopniem złożoności i pewnymi niedociągnięciami. Do
+dnia dzisiejszego Java EE otrzymała wiele poprawek które uprościły pracę w tej technologii
+jednak Spring pozostała preferowanym wyborem dla większości deweloperów. Zawdzięcza to
+nie tylko temu że jest wciąż prostszy w użycia od Java EE ale również ze względu na cały
+ekosystem Spring, który jest platformą dla wielu innych projektów takich jak Spring Security,
+Spring Data czy Spring Cloud. W prezentowanej pracy zostały wykorzystane liczne projekty
+wchodzące w skład platformy Spring.
+<br />
+
+## 2.1.1. Spring boot
+Spring Boot to projekt którego celem jest dostarczenie gotowych, predefiniowanych
+konfiguracji dla Spring Framework w celu uproszczenia uruchomienia aplikacji. W
+projektowanej aplikacji Spring wykorzystywany jest do stworzenia i REST API które będzie
+wykorzystane do komunikacji pomiędzy backendem i frontendem aplikacji.
+
+<br />
+
+
