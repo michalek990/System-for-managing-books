@@ -92,7 +92,6 @@ Spring Boot to projekt którego celem jest dostarczenie gotowych, predefiniowany
 konfiguracji dla Spring Framework w celu uproszczenia uruchomienia aplikacji. W
 projektowanej aplikacji Spring wykorzystywany jest do stworzenia i REST API które będzie
 wykorzystane do komunikacji pomiędzy backendem i frontendem aplikacji.
-
 <br />
 
 ## 2.1.2. Spring Data JPA
@@ -108,6 +107,12 @@ Spring Security to wysoce konfigurowalne narzędzie do uwierzytelniania i kontro
 dostępu. W prezentowanej pracy Spring Security został użyty w celu implementacji
 funkcjonalności logowania, rejestracji oraz autentykacji i autoryzacji na podstawie tokenów
 JWT. Spring Security dostarcza również kilka popularny
+<br />
 
+## 2.1.4. Spring OpenAPI + Swagger UI
+Biblioteka pomagająca w automatyzacji generowania dokumentacji API w projektach
+wykorzystujących Spring Boot. W aplikacji biblioteka ta została wykorzystana w połączeniu
+ze Swagger UI w celu wygenerowania interfejsu graficznego pozwalającego na bezpośrednią
+interakcję z REST API.
 <br />
 
