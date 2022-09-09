@@ -134,3 +134,12 @@ uwierzytelniających. W prezentowanym projekcie MySQL jest wykorzystywany do
 przechowywania i agregowania danych o poszczególnych bytach obecnych w systemie.
 <br />
 
+## 2.4. HTML5 + CSS3 + Bootstrap
+HTML to hipertekstowy język znaczników który jest stosowany do definiowania
+struktury i treści strony internetowej. Przeglądarki internetowe odczytują składnię języka i
+interpretują ją, a następnie wyświetlają. CSS czyli kaskadowe arkusze stylów, służą do opisu
+prezentacji strony internetowej zdefiniowanej uprzednio przy wykorzystaniu HTML.
+Bootstrap to biblioteka CSS która zawiera zestaw przydatnych narzędzi ułatwiających
+tworzenie responsywnego interfejsu graficznego użytkownika zgodnie z filozofią mobile-first
+design.
+<br />
