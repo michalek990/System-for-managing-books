@@ -169,4 +169,8 @@ stworzonego projektu przy pomocy jednego polecenia
 
 # 3. PROJEKT BAZY DANYCH
 ## 3.1. Diagram ERD
+<div align="center">
+ 
 ![image](https://user-images.githubusercontent.com/93988101/189315725-d6299a32-edbb-4fa2-ab9d-a45392f0a767.png)
+
+</div>
