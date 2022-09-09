@@ -166,3 +166,7 @@ wielokontenerowej aplikacji. W tworzonym projekcie Docker wraz z Docker Compose
 zostały zastosowane do stworzenia konfiguracji która umożliwia zbudowanie i uruchomienie
 stworzonego projektu przy pomocy jednego polecenia
 <br />
+
+# 3. PROJEKT BAZY DANYCH
+## 3.1. Diagram ERD
+![image](https://user-images.githubusercontent.com/93988101/189315725-d6299a32-edbb-4fa2-ab9d-a45392f0a767.png)
