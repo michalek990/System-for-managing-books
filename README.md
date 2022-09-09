@@ -143,3 +143,16 @@ Bootstrap to biblioteka CSS która zawiera zestaw przydatnych narzędzi ułatwia
 tworzenie responsywnego interfejsu graficznego użytkownika zgodnie z filozofią mobile-first
 design.
 <br />
+
+## 2.5. JavaScript + Vue.js
+JavaScript to skryptowy oraz wieloparadygmatowy, interpretowany język
+programowania, umożliwiający obsługę dynamicznego tworzenia treści na stronie
+internetowej. Jest językiem lekkim i najczęściej wykorzystywanym jako język który jest
+wykonywany w przeglądarce internetowej, jako część strony internetowej. Vue.js jest
+frameworkiem wykorzystującym język JavaScript który upraszcza tworzenie interaktywnych
+stron internetowych. Vue.js koncentruje się na ułatwieniu w tworzeniu aplikacji typu SPA -
+Single Page Application. W projekcie framework ten został wykorzystany do stworzenia
+interfejsu użytkownika w postaci aplikacji internetowej. Dzięki zastosowaniu Vuex
+(biblioteka pozwalającą na tworzenie sesji dla użytkownika) możliwe było
+zaimplementowanie funkcjonalności autoryzacji użytkownika.
+<br />
