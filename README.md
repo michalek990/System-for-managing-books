@@ -134,7 +134,7 @@ uwierzytelniających. W prezentowanym projekcie MySQL jest wykorzystywany do
 przechowywania i agregowania danych o poszczególnych bytach obecnych w systemie.
 <br />
 
-## 2.4. HTML5 + CSS3 + Bootstrap
+# 2.4. HTML5 + CSS3 + Bootstrap
 HTML to hipertekstowy język znaczników który jest stosowany do definiowania
 struktury i treści strony internetowej. Przeglądarki internetowe odczytują składnię języka i
 interpretują ją, a następnie wyświetlają. CSS czyli kaskadowe arkusze stylów, służą do opisu
@@ -144,7 +144,7 @@ tworzenie responsywnego interfejsu graficznego użytkownika zgodnie z filozofią
 design.
 <br />
 
-## 2.5. JavaScript + Vue.js
+# 2.5. JavaScript + Vue.js
 JavaScript to skryptowy oraz wieloparadygmatowy, interpretowany język
 programowania, umożliwiający obsługę dynamicznego tworzenia treści na stronie
 internetowej. Jest językiem lekkim i najczęściej wykorzystywanym jako język który jest
@@ -157,7 +157,7 @@ interfejsu użytkownika w postaci aplikacji internetowej. Dzięki zastosowaniu V
 zaimplementowanie funkcjonalności autoryzacji użytkownika.
 <br />
 
-## 2.6. Docker + Docker Compose
+# 2.6. Docker + Docker Compose
 Docker to otwartoźródłowe oprogramowanie do tworzenia oraz zarządzania
 wirtualnymi kontenerami aplikacji. Kontenery pozwalają na odseparowanie aplikacji od
 wykorzystywanej przez nas infrastruktury co pozwala na łatwiejsze i tańsze budowanie i
