@@ -174,3 +174,10 @@ stworzonego projektu przy pomocy jednego polecenia
 ![image](https://user-images.githubusercontent.com/93988101/189315725-d6299a32-edbb-4fa2-ab9d-a45392f0a767.png)
 
 </div>
+
+## 3.2. Opis Tabel
+<div align="center">
+ 
+![image](https://user-images.githubusercontent.com/93988101/189316031-0f6219bb-a6ee-453f-b3e9-980d9eb0c7e6.png)
+
+</div>
