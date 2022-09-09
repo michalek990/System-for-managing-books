@@ -156,3 +156,13 @@ interfejsu użytkownika w postaci aplikacji internetowej. Dzięki zastosowaniu V
 (biblioteka pozwalającą na tworzenie sesji dla użytkownika) możliwe było
 zaimplementowanie funkcjonalności autoryzacji użytkownika.
 <br />
+
+## 2.6. Docker + Docker Compose
+Docker to otwartoźródłowe oprogramowanie do tworzenia oraz zarządzania
+wirtualnymi kontenerami aplikacji. Kontenery pozwalają na odseparowanie aplikacji od
+wykorzystywanej przez nas infrastruktury co pozwala na łatwiejsze i tańsze budowanie i
+uruchamianie aplikacji. Docker Compose jest narzędziem do definiowania i uruchomienia
+wielokontenerowej aplikacji. W tworzonym projekcie Docker wraz z Docker Compose
+zostały zastosowane do stworzenia konfiguracji która umożliwia zbudowanie i uruchomienie
+stworzonego projektu przy pomocy jednego polecenia
+<br />
