@@ -181,3 +181,15 @@ stworzonego projektu przy pomocy jednego polecenia
 ![image](https://user-images.githubusercontent.com/93988101/189316031-0f6219bb-a6ee-453f-b3e9-980d9eb0c7e6.png)
 
 </div>
+
+<div align="center">
+ 
+![image](https://user-images.githubusercontent.com/93988101/189316266-d38d31c5-4856-4aff-8067-84e892473cf8.png)
+ ![image](https://user-images.githubusercontent.com/93988101/189316311-d5cd8e0a-1ae1-4ca3-9484-0456f52fbeab.png)
+
+</div>
+<div align="center">
+ 
+![image](https://user-images.githubusercontent.com/93988101/189316352-afb1c251-8ffc-46ce-9df4-376d4c2c1f22.png)
+ 
+</div>
